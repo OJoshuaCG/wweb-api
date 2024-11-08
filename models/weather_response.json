@@ -1,0 +1,114 @@
+{
+	"response": [
+		{
+			"name": "Tampico",
+			"place_id": "tampico",
+			"adm_area1": "Tamaulipas",
+			"adm_area2": "Tampico",
+			"country": "Mexico",
+			"lat": "22.28519N",
+			"lon": "97.87777W",
+			"timezone": "America/Monterrey",
+			"type": "settlement"
+		},
+		{
+			"name": "Tampico",
+			"place_id": "tampico-4913209",
+			"adm_area1": "Illinois",
+			"adm_area2": "Whiteside",
+			"country": "United States of America",
+			"lat": "41.63031N",
+			"lon": "89.78622W",
+			"timezone": "America/Chicago",
+			"type": "settlement"
+		},
+		{
+			"name": "Tampicol",
+			"place_id": "tampicol-3483557",
+			"adm_area1": "San Luis Potosí",
+			"adm_area2": "Tanquián de Escobedo",
+			"country": "Mexico",
+			"lat": "21.66095N",
+			"lon": "98.63723W",
+			"timezone": "America/Mexico_City",
+			"type": "settlement"
+		},
+		{
+			"name": "Tampico",
+			"place_id": "tampico-5813046",
+			"adm_area1": "Washington",
+			"adm_area2": "Yakima",
+			"country": "United States of America",
+			"lat": "46.53512N",
+			"lon": "120.8673W",
+			"timezone": "America/Los_Angeles",
+			"type": "settlement"
+		},
+		{
+			"name": "Tampico",
+			"place_id": "tampico-8870245",
+			"adm_area1": "Chiapas",
+			"adm_area2": "Frontera Comalapa",
+			"country": "Mexico",
+			"lat": "15.71917N",
+			"lon": "92.18972W",
+			"timezone": "America/Mexico_City",
+			"type": "settlement"
+		},
+		{
+			"name": "Tampico",
+			"place_id": "tampico-8881418",
+			"adm_area1": "Jalisco",
+			"adm_area2": "Lagos de Moreno",
+			"country": "Mexico",
+			"lat": "21.30611N",
+			"lon": "101.9475W",
+			"timezone": "America/Mexico_City",
+			"type": "settlement"
+		},
+		{
+			"name": "Tampico",
+			"place_id": "tampico-4023299",
+			"adm_area1": "Guanajuato",
+			"adm_area2": "San Felipe",
+			"country": "Mexico",
+			"lat": "21.36528N",
+			"lon": "101.45667W",
+			"timezone": "America/Mexico_City",
+			"type": "settlement"
+		},
+		{
+			"name": "Tampico",
+			"place_id": "tampico-8905722",
+			"adm_area1": "Zacatecas",
+			"adm_area2": "Valparaíso",
+			"country": "Mexico",
+			"lat": "22.78889N",
+			"lon": "103.40694W",
+			"timezone": "America/Mexico_City",
+			"type": "settlement"
+		},
+		{
+			"name": "Tampico",
+			"place_id": "tampico-8783225",
+			"adm_area1": "Nuevo León",
+			"adm_area2": "Galeana",
+			"country": "Mexico",
+			"lat": "25.25194N",
+			"lon": "100.59472W",
+			"timezone": "America/Monterrey",
+			"type": "settlement"
+		},
+		{
+			"name": "Tampico",
+			"place_id": "tampico-8552115",
+			"adm_area1": "Free and Sovereign State of Baja California",
+			"adm_area2": "Ensenada Municipality",
+			"country": "Mexico",
+			"lat": "31.35083N",
+			"lon": "116.46333W",
+			"timezone": "America/Tijuana",
+			"type": "settlement"
+		}
+	]
+}
